@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<your-username>/todo-app.git
+    repoURL: https://github.com/Fahd-03/DevOps-Project-22i1029_22i1131_22i0949
     targetRevision: HEAD
     path: k8s
   destination:
